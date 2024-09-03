@@ -1,0 +1,12 @@
+{
+  "name": "codebehind-zadatak",
+  "version": "1.0.0",
+  "main": "zadatak.js",
+  "scripts": {
+    "start": "node zadatak.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
